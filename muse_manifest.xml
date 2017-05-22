@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cryptopurr.github.io" resolutions="1x" timestamp="1495476738296">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cryptopurr-collective.github.io" resolutions="1x" timestamp="1495490011562">
   <folder name="css">
     <file name="site_global.css" crc="259669223"/>
-    <file name="index.css" crc="4133884726" ref="index"/>
+    <file name="index.css" crc="232295700" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,5 +11,11 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
-  <file name="index.html" crc="37560742" seo="true" mt="1495476726306" redirect="true"/>
+  <folder name="images">
+    <file name="catoutline.svg" crc="4183571852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="catoutline_poster_.png" crc="4024901422" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3877345650" seo="true" mt="1495490000700" redirect="true"/>
 </manifest>
